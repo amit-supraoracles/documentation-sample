@@ -98,8 +98,9 @@ Before executing the binary, ensure the database is running:
 - Run the compiled binary
     - [Binary execution command]
 
-
-### Frequently Asked Questions
+&nbsp;
+***
+###  Frequently Asked Questions 
 Explore common queries and concerns to enhance your experience with [Your Project Name].
 
 ### Common Errors and Solutions
@@ -122,3 +123,4 @@ Stay informed about known issues and their resolutions:
 - **Issue 2**: [Describe known issue 2]
     - Resolution: [Include details on overcoming or mitigating this specific issue.]
 
+***
