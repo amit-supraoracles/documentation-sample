@@ -63,7 +63,7 @@ Set up your development environment seamlessly with essential tools:
     ```
 
 
-#### Dependencies
+### Dependencies
 Ensure a smooth execution by addressing dependencies:
 
 1. **Kafka**: 
